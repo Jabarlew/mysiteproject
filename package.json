@@ -4,6 +4,7 @@
   "description": "work in progress",
   "main": "index.js",
   "scripts": {
+    "dev": "browser-sync start -s 'docroot' -f 'docroot'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "browserlist": [
     "last 4 versions",
     "ie 11"
-  ]
+  ],
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
 }
