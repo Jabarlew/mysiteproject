@@ -1,0 +1,24 @@
+{
+  "name": "mysiteproject",
+  "version": "0.0.1",
+  "description": "work in progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jabarlew/mysiteproject.git"
+  },
+  "keywords": [],
+  "author": "Bartosz Lewandowski <mebarlew@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jabarlew/mysiteproject/issues"
+  },
+  "homepage": "https://github.com/Jabarlew/mysiteproject#readme",
+  "browserlist": [
+    "last 4 versions",
+    "ie 11"
+  ]
+}
